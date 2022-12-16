@@ -1,0 +1,11 @@
+g/
+__pycache__/
+__*
+__/
+test*
+*.spec
+build/
+dist/
+config.py
+env/
+*.zip

@@ -1,0 +1,13 @@
+class bot_config:
+    url: str = "https://api.telegram.org/bot{token}/{method}"
+    token: str = ""
+    chat_id: int = 0
+
+class ftp_config:
+    host: str = ""
+    user: str = ""
+    password: str = ""
+
+class config:
+    bot: bot_config = bot_config
+    ftp: ftp_config = ftp_config

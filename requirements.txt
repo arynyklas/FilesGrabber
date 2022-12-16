@@ -1,0 +1,4 @@
+requests==2.27.1
+tqdm==4.62.3
+pytz==2021.3
+pyinstaller==5.2
