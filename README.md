@@ -10,7 +10,7 @@ This script grabbers all of `C:/User/Desktop`'s files and uploads them to FTP-se
 
 ### Configure:
 - Rename `config.py.example` to `config.py`
-- Set valeus for `Bot` (`bot_config`) and `FTP` (`ftp_config`)
+- Set values for `Bot` (`bot_config`) and `FTP` (`ftp_config`)
 
 ### Build:
 Run `build.bat` file to build (it calls `pyinstaller`).
